@@ -17,7 +17,6 @@ ENERGYPREDICTSPARKAWS/
 │
 ├── code/                      # Python scripts for model training and prediction
 ├── dataset/                   # Input datasets (TrainingDataset.csv, ValidationDataset.csv)
-├── implementation_images/     # Visuals and screenshots for documentation
 ├── model/                     # Exported machine learning models
 │
 ├── boot.sh                    # Shell script to automate environment setup
